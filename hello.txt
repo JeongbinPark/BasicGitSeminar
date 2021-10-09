@@ -1,3 +1,0 @@
-hello world!
-I am in BasicGitSeminar and GitTraining directory!
-Hello I am BasicGitSeminar!
